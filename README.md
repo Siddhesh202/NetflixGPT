@@ -1,5 +1,18 @@
 # Netflix App
 
+- Create React App
+- Configured TailwindCSS
+- Header
+- Routing of App
+- Sign Up Form
+- Form Validation
+- UseRef Hook
+- Firebase Setup
+- Deploying our app to production
+- Create Signup User Account
+- Implement Sign In user api
+- Created our redux store with user slice
+
 # Features
 
 - Login / Signup
